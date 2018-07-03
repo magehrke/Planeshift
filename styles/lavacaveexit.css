@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* lavacaveexit.php CSS Script */
+
+#lavacaveexit_content_main_div {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+
+}
+
+	#lavacaveexit_content_main_div img {
+		margin-top: 10px;
+		align-self: left;
+	}
+
+.lavacaveexit_table_rockmoves {
+	width: 470px;
+	height: auto;
+
+	margin-top: 25px;
+
+	border: 1px solid #FFF;
+
+
+}
+
+	.lavacaveexit_table_rockmoves img {
+		margin-top: 10px;
+		align-self: left;
+	}
+
+	.lavacaveexit_table_rockmoves th {
+		text-align: center;
+	}
+
+	.lavacaveexit_table_rockmoves td {
+		text-align: center;
+	}
