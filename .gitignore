@@ -15,3 +15,7 @@
 *.rar
 *.tar
 *.zip
+
+# Config files #
+################
+*.json
