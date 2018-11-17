@@ -19,3 +19,4 @@
 # Config files #
 ################
 *.json
+*.collabignore
